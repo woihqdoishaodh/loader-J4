@@ -1,5 +1,5 @@
 local games = {
-    [134381727982611] = "https://raw.githubusercontent.com/GrexXMeng/Mengs/refs/heads/main/W424_VD.lua",         -- Evomon
+    [134381727982611] = "https://raw.githubusercontent.com/woihqdoishaodh/J4-Evomon/refs/heads/main/J4.lua",         -- Evomon
 }
 
 local currentPlaceID = game.PlaceId
